@@ -1,27 +1,3 @@
 # try.github.io
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Game of Thrones Fan Art</title>
-  <style>
-    body {
-      background-color: #1a1a1a;
-      color: white;
-      text-align: center;
-      font-family: 'Arial', sans-serif;
-    }
-    img {
-      max-width: 90%;
-      height: auto;
-      border: 5px solid #444;
-      border-radius: 10px;
-      box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
-    }
-  </style>
-</head>
-<body>
-  <h1>Game of Thrones Fan Art</h1>
-  <img src="https://example.com/got-fan-art.jpg" alt="Game of Thrones Art">
-</body>
-</html>
+
+  
